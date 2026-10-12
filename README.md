@@ -6,7 +6,7 @@ Welcome to **Arpita Builds**, my personal portfolio website showcasing my journe
 
 This portfolio brings together my technical skills, projects, research interests, certifications, and achievements in one place. It is designed to provide a clean, interactive, and accessible way to explore my work and connect with me.
 
-🌐 **Live Portfolio:** [Visit Arpita Builds](https://arpitabuilds.github.io/Portfolio_arpitaBuilds/)
+🌐 **Live Portfolio:** [Visit Arpita Builds](https://arpitabuilds.github.io/Portfolio_Arpita_Builds/)
 
 ---
 
